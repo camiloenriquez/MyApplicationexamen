@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Applicationexamen</string>
+    <string name="tv1">numero 1</string>
+    <string name="tv2">numero 2</string>
+    <string name="buttonmultiplicar">multiplicar</string>
+    <string name="buttonaleatorio">aleatorio</string>
+    <string name="acerca">acerca</string>
+    <string name="salir">salir</string>
+</resources>

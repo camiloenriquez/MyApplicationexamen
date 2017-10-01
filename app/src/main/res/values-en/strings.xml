@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Applicationexamen</string>
+    <string name="tv1">number 1</string>
+    <string name="tv2">number 2</string>
+    <string name="buttonmultiplicar">multiplicar</string>
+    <string name="buttonaleatorio">random</string>
+    <string name="acerca">about</string>
+    <string name="salir">exit</string>
+
+</resources>
